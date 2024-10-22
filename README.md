@@ -1,6 +1,6 @@
 <h1 align="center">My Typescript App</h1>
 
-<p align="center">A package just for fun ❤️</p>
+<p align="center">A package just for fun !!</p>
 
 <p align="center">
 	<!-- prettier-ignore-start -->
