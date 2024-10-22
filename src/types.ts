@@ -3,3 +3,8 @@ export interface GreetOptions {
 	message: string;
 	times?: number;
 }
+
+export interface Person {
+	name: string;
+	age: number;
+}
