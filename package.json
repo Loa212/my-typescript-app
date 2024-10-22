@@ -8,6 +8,7 @@
 	},
 	"license": "MIT",
 	"author": {
+		"name": "Loris Anobile",
 		"email": "anobileloris@gmail.com"
 	},
 	"type": "module",
